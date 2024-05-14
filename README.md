@@ -21,3 +21,14 @@ The term test result ranking system will include the following functions:
 -	calcTot()
 -	showRankings()
 
+  <h3>Objectives</h3>
+
+The objectives of this project are
+-	Saving the students' marks individually for each subject
+-	Students can be graded.
+-	If there is a correction, school authorities can update the student’s details.
+-	Students are ranked by their full marks.
+-	If there are a large number of students, the system easily analyzes them to identify the top students and assign them grades. In addition, provide them with scholarships.
+-	Teachers can focus on students who are weak in each subject and give them advice.
+
+
