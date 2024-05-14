@@ -8,16 +8,16 @@
 <h3>Methodology</h3>
 
 Data structures like trees and arrays are used to create this ranking system for the results of the term test exam. The steps in this application development process are as follows:<br>
-•	Students’ datasheets will be entered into the database by the user through the command form, and the total marks for each student will be automatically calculated through the function.<br>
-•	According to their total marks, their ranking will be lowered.<br>
-•	Each student has been given a unique ID (student ID), so it can be used to filter their marks and rank.
-•	By using the student ID, the user can update or delete relevant records.
+- Students’ datasheets will be entered into the database by the user through the command form, and the total marks for each student will be automatically calculated through the function.<br>
+-	According to their total marks, their ranking will be lowered.<br>
+-	Each student has been given a unique ID (student ID), so it can be used to filter their marks and rank.
+-	By using the student ID, the user can update or delete relevant records.
  
 The term test result ranking system will include the following functions:
-•	insertFunc()
-•	searchById()
-•	deleteFunc()
-•	updateFunc()
-•	calcTot()
-•	showRankings()
+-	insertFunc()
+-	searchById()
+-	deleteFunc()
+-	updateFunc()
+-	calcTot()
+-	showRankings()
 
